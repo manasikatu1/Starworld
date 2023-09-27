@@ -1,2 +1,3 @@
 # Starworld
-My first repository
+My first  github repository.
+Author - Manasi Katu
